@@ -1,0 +1,7 @@
+C:\Workpspace\sampleTPLTask2\bin\Debug\sampleTPLTask2.exe.config
+C:\Workpspace\sampleTPLTask2\bin\Debug\sampleTPLTask2.exe
+C:\Workpspace\sampleTPLTask2\bin\Debug\sampleTPLTask2.pdb
+C:\Workpspace\sampleTPLTask2\obj\Debug\sampleTPLTask2.csproj.CoreCompileInputs.cache
+C:\Workpspace\sampleTPLTask2\obj\Debug\sampleTPLTask2.exe
+C:\Workpspace\sampleTPLTask2\obj\Debug\sampleTPLTask2.pdb
+C:\Workpspace\sampleTPLTask2\obj\Debug\sampleTPLTask2.csproj.AssemblyReference.cache

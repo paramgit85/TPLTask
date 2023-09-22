@@ -1,0 +1,7 @@
+C:\Workpspace\SampleTPL\bin\Debug\SampleTPL.exe.config
+C:\Workpspace\SampleTPL\bin\Debug\SampleTPL.exe
+C:\Workpspace\SampleTPL\bin\Debug\SampleTPL.pdb
+C:\Workpspace\SampleTPL\obj\Debug\SampleTPL.csproj.AssemblyReference.cache
+C:\Workpspace\SampleTPL\obj\Debug\SampleTPL.csproj.CoreCompileInputs.cache
+C:\Workpspace\SampleTPL\obj\Debug\SampleTPL.exe
+C:\Workpspace\SampleTPL\obj\Debug\SampleTPL.pdb

@@ -1,0 +1,7 @@
+C:\Workpspace\awaitSample\bin\Debug\awaitSample.exe.config
+C:\Workpspace\awaitSample\bin\Debug\awaitSample.exe
+C:\Workpspace\awaitSample\bin\Debug\awaitSample.pdb
+C:\Workpspace\awaitSample\obj\Debug\awaitSample.csproj.AssemblyReference.cache
+C:\Workpspace\awaitSample\obj\Debug\awaitSample.csproj.CoreCompileInputs.cache
+C:\Workpspace\awaitSample\obj\Debug\awaitSample.exe
+C:\Workpspace\awaitSample\obj\Debug\awaitSample.pdb
